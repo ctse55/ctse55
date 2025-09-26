@@ -5,7 +5,7 @@
 <h2>📺 Cybersecurity Projects</h2>
 
 - <b>Simple Programming Language (SPL)</b>
-  - [Splunk Detection Queries](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Splunk Detection Queries]()
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
